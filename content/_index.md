@@ -9,10 +9,15 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
 
-- Aprender a dominar git y github
-- Dominar mi sistema operativo para migrar a linux
-- Afinar mis habilidades como desarrollador 
-- Implementar lo aprendido en la misiÓN Front-end 
-- Aprender nuevas tecnologias de Backend
-- Compartir mis conocimientos en este blog
+- Dominar git y github.
+
+- Dominar mi sistema operativo para migrar a linux.
+
+- Afinar mis habilidades como desarrollador. 
+
+- Implementar lo aprendido en la misión Front-end.
+
+- Aprender nuevas tecnologias de Backend.
+
+- Compartir mis conocimientos en este blog.
 
